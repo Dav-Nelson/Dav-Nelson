@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm David Nelson
 
-<!--
-**Dav-Nelson/Dav-Nelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack and AI engineer building voice-first, multilingual tools for African health access. Open to remote roles.
 
-Here are some ideas to get you started:
+**Recent wins (2026)**
+- 1st place, The Build 2026: HealthBridge Africa
+- Masakhane Benchmark category, Sahara CodeSwitch Africa Challenge: Weha Health
+- Most Innovative Use of AI, GDG Abuja Build with AI: Lura
+- Pitch winner, Techstars Startup Week Abuja
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured projects**
+- [HealthBridge Africa](https://healthbridge-africa.vercel.app): 6-language voice health assistant, 300+ visits
+- [Weha Health](https://weha-health-voice.vercel.app): maternal-health triage agent with care-team alerts
+- [Dr. Yetunde Abioye website](https://yetundeabioye.com): client site with admin CMS
+
+**Stack:** React, Next.js, TypeScript, Node.js, FastAPI, PostgreSQL, pgvector, RAG, Docker
+
+[Portfolio](https://davidnelson-portfolio.vercel.app) | [LinkedIn](https://www.linkedin.com/in/david-nelson-352019371)
